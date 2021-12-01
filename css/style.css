@@ -1,0 +1,139 @@
+li {
+    list-style-type: none
+}
+.header {
+    width: 1600px;
+    height: 80px;
+    border: 1px solid black;
+}
+.nav_portfolio {
+/*  text-align: center;*/
+/*  background: red;*/ 
+}
+.nav_portfolio li {
+/*    display: inline;*/
+    margin-right: 5px; 
+    padding: 3px;
+    
+   }
+.nav_portfolio a {
+    text-decoration: none;
+    padding: 10px;
+    
+}
+.nav_ul {
+    display: inline;
+/*
+    padding: 150px;
+    padding-left: 50px;
+*/
+    
+}
+.nav_ul li {
+    display: inline;
+    margin-right: 5px; 
+    padding: 3px;
+}
+.nav_tel {
+    color: #757575;
+    font-size: 14px;
+}.nav_tel:hover {
+    color: #2196F3;
+}
+.nav_page_link {
+    font-family: Roboto;
+    font-weight: 500;
+    color: #212121;
+    font-size: 14px;
+}
+.nav_page_link:hover {
+    color: #2196F3;
+}
+.filters li {
+    display: inline;
+    margin-right: 5px; 
+    padding: 3px;
+}
+.filters button {
+    cursor: pointer;
+    background: #F5F4FA;
+    border: 0px;
+    border-radius: 4px;
+    width: 145px;
+    height: 38px;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 15px;
+}
+.filters button:hover {
+    background: #2196F3;
+    color: white;
+}
+.h1_studio {
+    font-size: 44px;
+    line-height: 60px;
+    font-weight: 900;
+    color: white;
+}
+.button_buy {
+    background: #2196F3;
+    color: white;
+    border: 0px;
+    width: 200px;
+    height: 50px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.h3_studio {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16,41px;
+}
+.p_studio_section1 {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #757575;
+}
+.h2_studio {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42,19px;
+}
+.worker_name {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18,75px; 
+}
+.worker_role {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18,75px;
+    color: #757575;
+}
+.footer_address {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px; 
+    color: white;
+}
+.footer_contacts {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18,75px;
+    color: #757575;
+}
+footer a {
+    text-decoration: none;
+}
+.h4_portfolio {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+} 
+.p_portfolio {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #757575;
+}
