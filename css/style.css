@@ -1,5 +1,19 @@
+body {
+    font-family: 'Roboto';
+    letter-spacing: 0.03em;
+    color: #212121;
+    }
+.web_logo {
+    font-family: 'Raleway';
+    font-weight: 700px;
+    font-size: 26px;
+    text-decoration: none;
+    color: #212121;
+    line-height: 100%;
+}
 li {
-    list-style-type: none
+    list-style-type: none;
+    line-height: 100%;
 }
 .header {
     width: 1600px;
@@ -64,18 +78,26 @@ li {
     font-family: Roboto;
     font-weight: 500;
     font-size: 15px;
+    line-height: 139%;
 }
 .filters button:hover {
     background: #2196F3;
     color: white;
 }
-.h1_studio {
+.main_title_studio {
+    font-family: 'Roboto';
     font-size: 44px;
-    line-height: 60px;
-    font-weight: 900;
+    line-height: 116%;
+    font-weight: 900px;
+    font-style: normal;
     color: white;
 }
 .button_buy {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 700px;
+    line-height: 160%;
     background: #2196F3;
     color: white;
     border: 0px;
@@ -84,56 +106,56 @@ li {
     border-radius: 4px;
     cursor: pointer;
 }
-.h3_studio {
+.subtitle_lvl3_studio {
     font-weight: 700;
     font-size: 14px;
-    line-height: 16,41px;
+    line-height: 100%;
 }
-.p_studio_section1 {
+.under_subtitle_studio {
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 146%;
     color: #757575;
 }
-.h2_studio {
+.title_lvl2 {
     font-weight: 700;
     font-size: 36px;
-    line-height: 42,19px;
+    line-height: 100%;
 }
 .worker_name {
     font-weight: 500;
     font-size: 16px;
-    line-height: 18,75px; 
+    line-height: 100%; 
 }
 .worker_role {
     font-weight: 400;
     font-size: 16px;
-    line-height: 18,75px;
+    line-height: 100%;
     color: #757575;
 }
 .footer_address {
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px; 
+    line-height: 100%; 
     color: white;
 }
 .footer_contacts {
     font-weight: 400;
     font-size: 16px;
-    line-height: 18,75px;
+    line-height: 146%;
     color: #757575;
 }
 footer a {
     text-decoration: none;
 }
-.h4_portfolio {
+.portfolio_title {
     font-weight: 700;
     font-size: 18px;
-    line-height: 36px;
+    line-height: 171%;
 } 
-.p_portfolio {
+.subtitle_portfolio {
     font-weight: 400;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 160%;
     color: #757575;
 }
